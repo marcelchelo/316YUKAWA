@@ -1,0 +1,30 @@
+0 <assignment>
+ 1 x1
+ 1 =
+ 1 <E>
+  2 <term>
+   3 <primary>
+    4 1
+0 <assignment>
+ 1 x2
+ 1 =
+ 1 <E>
+  2 <term>
+   3 <primary>
+    4 2
+0 <assignment>
+ 1 x3
+ 1 =
+ 1 <E>
+  2 <term>
+   3 <primary>
+    4 x2
+   3 *
+   3 <term>
+    4 <primary>
+     5 x1
+  2 +
+  2 <E>
+   3 <term>
+    4 <primary>
+     5 5.5
